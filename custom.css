@@ -1,0 +1,58 @@
+body {
+    background-color: #fff;
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+
+
+.new-arrive-scn {
+    border-radius: 0.625rem;
+    background: #FFF3E3;
+}
+
+.bg-color-y {
+    background: var(--Primary, #B88E2F);
+}
+
+.bg-color-g {
+    background: var(--color-light-bg, #F4F5F7);
+}
+
+.product-card {
+    transition: all;
+    transition-duration: 1s;
+}
+
+.product-card:hover {
+    filter: brightness(.5);
+
+}
+
+.color-y-border-btn {
+    border: 2px solid black;
+    transition: all;
+    transition-duration: 0.4s;
+}
+
+.color-y-border-btn:hover {
+    border: 2px solid #B88E2F;
+    color: #b88e2f;
+}
+
+.Beautiful-rooms-inspiration-scn {
+    background: #FCF8F3;
+}
+.shop-bg-img{
+    background-image: url(/images/shop-page-bg-img.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.filter-scn{
+    background: #F9F1E7;}
+
+.bg-color-m{
+    background: #F9F1E7;}
+.bg-color-m:hover{
+    background: var(--Primary, #B88E2F);
+}

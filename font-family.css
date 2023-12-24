@@ -1,0 +1,9 @@
+.font-Poppins{
+    font-family: Poppins;
+}
+.font-Montserrat{
+    font-family: Montserrat;
+}
+.color-y{
+    color: var(--Primary, #B88E2F);
+}
